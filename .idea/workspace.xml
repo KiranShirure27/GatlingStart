@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12c45bac-4f63-465d-a754-a538dd252c4c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/GatlingRunner$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/GatlingRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/MyFirstTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/baseConfig/BaseSimulation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/Computer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/ComputerCsvFeeder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/resources/computerCsvFile.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/resources/logback.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_gatling.iml" afterPath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_gatling.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals.iml" afterPath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -552,6 +549,12 @@
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1669" />
+    <option name="y" value="-135" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -576,6 +579,17 @@
             <path>
               <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -701,7 +715,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1543938056637" />
+    <option name="lastUpdateTimestamp" value="1543938162489" />
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -731,7 +745,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543938084653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deleted output package">
+      <created>1543938144767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543938144767</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -768,7 +789,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added basic scala scripting" />
     <MESSAGE value="Refactor code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor code" />
+    <MESSAGE value="deleted output package" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted output package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
