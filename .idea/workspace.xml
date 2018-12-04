@@ -2,54 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12c45bac-4f63-465d-a754-a538dd252c4c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/all_sessions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/assertions.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/assertions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/gatling.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/global_stats.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/highstock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/menu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/stats.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/stats.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/theme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/unpack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_add-a-computer--25f69.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_bootstrap-min-c-5b8a7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_click-on-add-a--0fabe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_enter-details-20e9b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_enter-details-r-b7707.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_load-computer-d-d3f73.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_main-css-4abed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_request-3-d0973.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_request-5-redir-affb3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/simulation.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/arrow_down_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/arrow_right_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/cible.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/fond-degrade.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/fond-lueur.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/little_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/logo-gatling.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/sortable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/sorted-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/sorted-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/stat-fleche-bas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/stat-fond.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/stat-l-roue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/stat-l-temps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/GatlingRunner$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/GatlingRunner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/MyFirstTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/baseConfig/BaseSimulation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/Computer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/ComputerCsvFeeder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/resources/computerCsvFile.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/resources/logback.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_gatling.iml" afterPath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_gatling.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -762,7 +724,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543937883312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactor code">
+      <created>1543938084653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543938084653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -798,7 +767,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added basic scala scripting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added basic scala scripting" />
+    <MESSAGE value="Refactor code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
