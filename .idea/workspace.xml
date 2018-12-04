@@ -2,52 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12c45bac-4f63-465d-a754-a538dd252c4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gatling/scala/simulations/BbcNews.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/TaxonomyCreation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/finalSimulation/VideoGameFullTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/finalSimulation/VideoGameFullTestTemplate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/AddPauseTime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/BeforeAfter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/CheckResponseCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/CustomFeeder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/FixedDurationLoadSimulation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/LoadSimulation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/MakeObjectsLoop.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/RuntimeParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/Taxonomy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/gatling/resources/NewGameTemplate.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/resources/bodies/NewGameTemplate.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/finalSimulation/VideoGameFullTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/finalSimulation/VideoGameFullTestTemplate.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/AddPauseTime.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/BeforeAfter.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/CheckResponseCode.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/CustomFeeder.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/FixedDurationLoadSimulation.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/LoadSimulation.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/MakeObjectsLoop.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/RuntimeParameters.scala" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/gatling/classes/GatlingRunner$.class" afterPath="$PROJECT_DIR$/out/gatling/classes/GatlingRunner$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/gatling/classes/MyFirstTest.class" afterPath="$PROJECT_DIR$/out/gatling/classes/MyFirstTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/gatling/classes/baseConfig/BaseSimulation.class" afterPath="$PROJECT_DIR$/out/gatling/classes/baseConfig/BaseSimulation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/gatling/classes/simulations/Computer.class" afterPath="$PROJECT_DIR$/out/gatling/classes/simulations/Computer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals.iml" afterPath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_gatling.iml" afterPath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_gatling.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/gatling-fundamentals_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/all_sessions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/assertions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/assertions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/gatling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/global_stats.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/highstock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/stats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/stats.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/js/unpack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_add-a-computer--25f69.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_bootstrap-min-c-5b8a7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_click-on-add-a--0fabe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_enter-details-20e9b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_enter-details-r-b7707.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_load-computer-d-d3f73.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_main-css-4abed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_request-3-d0973.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/req_request-5-redir-affb3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/simulation.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/arrow_down_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/arrow_right_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/cible.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/fond-degrade.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/fond-lueur.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/little_arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/logo-gatling.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/sorted-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/sorted-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/stat-fleche-bas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/stat-fond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/stat-l-roue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/stat-l-temps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/computercsvfeeder-1543853202783/style/style.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gatling/scala/GatlingRunner.scala" afterPath="$PROJECT_DIR$/src/gatling/scala/GatlingRunner.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gatling/scala/MyFirstTest.scala" afterPath="$PROJECT_DIR$/src/gatling/scala/MyFirstTest.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gatling/scala/baseConfig/BaseSimulation.scala" afterPath="$PROJECT_DIR$/src/gatling/scala/baseConfig/BaseSimulation.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gatling/scala/simulations/Computer.scala" afterPath="$PROJECT_DIR$/src/gatling/scala/simulations/Computer.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -66,16 +68,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyFirstTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gatling/scala/MyFirstTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Computer.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gatling/scala/simulations/Computer.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,11 +78,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComputerCsvFeeder.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ComputerCsvFeeder.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gatling/scala/simulations/ComputerCsvFeeder.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="717">
-              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <caret line="52" column="1" lean-forward="false" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gatling-fundamentals.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gatling-fundamentals.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradlew" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2484">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradlew.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-988">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -100,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/src/gatling/scala/baseConfig/BaseSimulation.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -356,8 +398,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4631811469927" />
+        <entry key="$PROJECT_DIR$" value="4631812490509" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="615277776" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2341470283" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -543,6 +586,7 @@
         <option value="$PROJECT_DIR$/src/gatling/scala/simulations/bbcNews.scala" />
         <option value="$PROJECT_DIR$/src/gatling/scala/simulations/BbcNews.scala" />
         <option value="$PROJECT_DIR$/src/gatling/scala/GatlingRunner.scala" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
       </list>
     </option>
   </component>
@@ -570,37 +614,6 @@
             <path>
               <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="results" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gatling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gatling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatling-fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GatlingStart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gatling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="simulations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -726,7 +739,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1543937405749" />
+    <option name="lastUpdateTimestamp" value="1543938056637" />
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -742,6 +755,14 @@
       <option name="presentableId" value="Default" />
       <updated>1543937118028</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added basic scala scripting">
+      <created>1543937883312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543937883312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -774,6 +795,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added basic scala scripting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added basic scala scripting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -879,46 +904,6 @@
         <state showInfoPanel="true" rowLines="3" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-913">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gatling-fundamentals.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gatling/scala/MyFirstTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -956,7 +941,15 @@
     <entry file="file://$PROJECT_DIR$/src/gatling/scala/baseConfig/BaseSimulation.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -964,7 +957,47 @@
     <entry file="file://$PROJECT_DIR$/src/gatling/scala/simulations/ComputerCsvFeeder.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="717">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <caret line="52" column="1" lean-forward="false" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatling-fundamentals.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2484">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-988">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
           <folding />
         </state>
       </provider>
