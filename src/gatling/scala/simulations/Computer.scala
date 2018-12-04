@@ -15,8 +15,6 @@ class Computer extends Simulation {
 
   val headers_0 = Map("Upgrade-Insecure-Requests" -> "1")
 
-
-
   val scn = scenario("computer")
     .exec(http("Load Computer Database")
       .get("/computers")

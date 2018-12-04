@@ -8,13 +8,12 @@ class MyFirstTest extends BaseSimulation {
 
   // 2 Scenario Definition
   val scn = scenario("My First Test")
-    .exec(http("Get All Games")
-      .get("videogames"))
+    .exec(http("")
+      .get(""))
 
   // 3 Load Scenario
   setUp(
     scn.inject(atOnceUsers(1))
   ).protocols(httpConf)
-
 
 }

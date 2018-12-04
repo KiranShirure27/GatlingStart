@@ -5,9 +5,6 @@
       <module name="gatling-fundamentals_gatling" target="1.8" />
       <module name="gatling-fundamentals_main" target="1.8" />
       <module name="gatling-fundamentals_test" target="1.8" />
-      <module name="gatlingStart_gatling" target="1.8" />
-      <module name="gatlingStart_main" target="1.8" />
-      <module name="gatlingStart_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
