@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.asynchttpclient:netty-codec-dns:2.0.39">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.39/fb07cf4619ca0a179913892461fd1ab2d84af7b3/netty-codec-dns-2.0.39.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.39/93160fb2906219cfe360dc3c3a46618ed628d606/netty-codec-dns-2.0.39-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
