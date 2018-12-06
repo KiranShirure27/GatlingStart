@@ -76,5 +76,6 @@
     <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
     <orderEntry type="library" name="Gradle: org.asynchttpclient:netty-resolver:2.0.39" level="project" />
     <orderEntry type="library" name="Gradle: org.asynchttpclient:netty-codec-dns:2.0.39" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.12.7" level="application" />
   </component>
 </module>
